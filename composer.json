@@ -1,0 +1,15 @@
+{
+    "name": "snappsisnappes/better-get-data",
+    "description": "Этот класс позволяет эффективно делать массовые действия в Битрикс24 посредством REST API. Позволяет массово: выгружать, обновлять, удалять, запускать бп.",
+
+    "autoload": {
+        "psr-4": {
+            "Snappsisnappes\\BetterGetData\\": "src/"
+        }
+    },
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "php": ">=7.4"
+    }
+}
